@@ -13,8 +13,7 @@ information with third parties except as required by law.
 The following information is saved for the proper functioning of Saturn Bot:
 
 - User IDs (to associate you and your server members with your registered configurations)
-- Server IDs (stored only in some cases for information such as your language preferences, server configuration in case of moderation bots
-and leveling bots)
+- Server IDs (stored only in some cases for information such as your language preferences, server configuration in case of moderation bots and leveling bots)
 - Channel IDs (for channel-specific command overwrites and configurations)
 - Role IDs (for role-specific command overwrites and configurations)
 - Message IDs (for message specific features such as Role menu, reaction roles, reaction validation)
