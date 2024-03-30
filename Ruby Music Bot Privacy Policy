@@ -9,17 +9,6 @@ about our Privacy Policy.
 We do not share or sell your personal information for advertising or marketing purposes. We also do not share your personally identifiable
 information with third parties except as required by law.
 
-
-The following information is saved for the proper functioning of Ruby Music Bot:
-
-- User IDs (to associate you and your server members with your registered configurations)
-- Server IDs (stored only in some cases for information such as your language preferences, server configuration in case of moderation bots and leveling bots)
-- Channel IDs (for channel-specific command overwrites and configurations)
-- Role IDs (for role-specific command overwrites and configurations)
-- Message IDs (for message specific features such as Role menu, reaction roles, reaction validation)
-- Any user-supplied content, which may include text for greetings, reminders, rank cards
-
-
 It also indicates that you have granted Admin permission when adding Ruby Music Bot to your server and that you accept this with your 
 explicit consent. Admin permission is a very important permission that allows the bot to manage your server as it pleases and should
 only be granted if you trust the bot. Also, some admin commands may not work properly if you do not grant this permission. By granting 
